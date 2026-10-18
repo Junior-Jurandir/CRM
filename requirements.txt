@@ -1,0 +1,9 @@
+# Versões verificadas com Python 3.14.2 (compatível com 3.10+)
+streamlit==1.66.0
+supabase==2.33.0
+python-dotenv==1.2.4
+
+# Testes
+pytest==9.1.1
+hypothesis==6.170.1
+pytest-mock==3.17.0

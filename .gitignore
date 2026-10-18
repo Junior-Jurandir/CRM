@@ -1,0 +1,8 @@
+.env
+.venv/
+.claude/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+.streamlit/secrets.toml
